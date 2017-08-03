@@ -1,0 +1,9 @@
+body {
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+#search div input {
+	height: 21px;
+	padding-top: 5px;
+}

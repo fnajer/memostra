@@ -1,0 +1,16 @@
+#topmenu {
+	height: 43px;
+}
+
+#search div {
+	border: none;
+	margin-top: 0;
+}
+
+#products .right {
+	text-align: right;
+}
+
+#products .right table {
+	text-align: left;
+}

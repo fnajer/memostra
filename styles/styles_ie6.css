@@ -1,0 +1,12 @@
+#menu table {
+	float: left;
+	padding: 0;
+}
+
+.IE {
+	margin-left: -9px;
+}
+
+.right {
+	margin-right: 9px;
+}
